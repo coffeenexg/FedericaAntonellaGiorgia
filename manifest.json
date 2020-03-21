@@ -1,0 +1,38 @@
+{
+  "name": "Federica Antonella Giorgia",
+  "short_name": "FedericaAntonellaGiorgia",
+  "start_url": "https://federicaantonellagiorgia.blogspot.com",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "federica antonella giorgia blog",
+  "icons": [{
+    "src": "https://2.bp.blogspot.com/-RscD4h_VC6w/XnXEpbCCFLI/AAAAAAAAAKo/9nXFw8dkpmUyP1HBJIplUfWVhSvtBLh3wCLcBGAsYHQ/s1600/FAG%2B48.pn",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-4bp-ebCH4kw/XnXE9Jfe3WI/AAAAAAAAAKw/mFgKdsEgzZk7VgxezHi5K2vho4erGAXOgCLcBGAsYHQ/s1600/FAG%2B72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-2s2WRwQiurE/XnXFNeNtGyI/AAAAAAAAAK0/l0jopQ8h1rIbru-IeMvvZIWrEwqLjyF-gCLcBGAsYHQ/s1600/FAG%2B96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-3VVGH5pzJHw/XnXFaV_u3FI/AAAAAAAAAK8/9yfpAzq7UfAp5PFkwsEE7mzCpZ4y55HEwCLcBGAsYHQ/s1600/FAG%2B144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-l1vT_GdFlrQ/XnXFolNk9CI/AAAAAAAAALE/4WNnzf1c5PM2zKoiqktlSUAAlBnPqcMDQCLcBGAsYHQ/s1600/FAG%2B168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-4XLOQGI5F7M/XnXF0MHrkxI/AAAAAAAAALM/AAppPDu35aQqVN7Gh4ak-QjeJABlVeYAwCLcBGAsYHQ/s1600/FAG%2B192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-6Tg3fMCjvrY/XnXF_JuoU5I/AAAAAAAAALU/whXsZJmwKmkgAI9LYPbWM6RhhEbu9BL4QCLcBGAsYHQ/s1600/FAG%2B512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
